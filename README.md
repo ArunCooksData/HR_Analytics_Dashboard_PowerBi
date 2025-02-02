@@ -1,4 +1,4 @@
-![hrdashboard Logo](./hrdashboard.png)
+![hrdashboard Logo](./hrdashboard.jpg)
 
 # HR Analytics Dashboard 📊📈
 
